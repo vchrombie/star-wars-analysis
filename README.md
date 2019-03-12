@@ -1,4 +1,7 @@
 # star-wars-analysis
+
+<img src="https://i.pinimg.com/originals/b3/2b/39/b32b3985867f1f31c7905c30a96b9747.jpg" width="350" align="right"/>
+
 This repo is a part of the analysis made on the Star Wars data set to extract few interesting patterns.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchrombie/star-wars-analysis/master?filepath=star-wars-analysis.ipynb)
